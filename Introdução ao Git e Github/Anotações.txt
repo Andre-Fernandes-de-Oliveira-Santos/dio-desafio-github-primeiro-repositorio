@@ -1,0 +1,3 @@
+No Github criar novo repositório
+Utilizar o VSC para códigos e criação
+É possível clonar um repositório criado no Github para uma pasta local
